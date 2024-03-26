@@ -1,6 +1,7 @@
-🚀 Healthcare Analysis Project using Power BI
+ 🚀 Healthcare Analysis Project using Power BI
 
 ✨ Explored healthcare trends through advanced data analytics using Power BI.
+
 
 📊 Key Features:
 
